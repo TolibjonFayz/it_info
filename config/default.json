@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "atlasURI": "mongodb+srv://tolibjonfayz:tfma0417@cluster0.xyvpsxb.mongodb.net/it_info?retryWrites=true&w=majority",
+  "secret": "MyVerySecretKey"
+}
