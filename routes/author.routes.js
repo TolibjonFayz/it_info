@@ -6,7 +6,9 @@ const {
   editAuthor,
   deleteAuthor,
   loginAuthor,
+  logoutAuthor,
 } = require("../controllers/author.controller");
+
 const authorPolice = require("../middleware/authorPolice");
 const authorRolesPolice = require("../middleware/authorRolesPolice");
 const router = express.Router();
@@ -22,5 +24,6 @@ router.get(
 router.put("/:id", editAuthor);
 router.delete("/:id", deleteAuthor);
 router.post("/login", loginAuthor);
+router.post("/logout", logoutAuthor);
 
 module.exports = router;

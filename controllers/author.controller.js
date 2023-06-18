@@ -1,18 +1,9 @@
 const errorHandler = require("../helpers/error_handler");
 const Author = require("../model/Author");
 const { authorValidation } = require("../validations/author");
-const jwt = require("jsonwebtoken");
-const config = require("config");
 const bcrypt = require("bcrypt");
-
-const generateAccessToken = (id, is_expert, authorRoles) => {
-  const payload = {
-    id,
-    is_expert,
-    authorRoles,
-  };
-  return jwt.sign(payload, config.get("secret"), { expiresIn: "1h" });
-};
+const myJwt = require("../services/JwtService");
+const config = require("config");
 
 const addAuthor = async (req, res) => {
   try {
@@ -133,6 +124,22 @@ const deleteAuthor = async (req, res) => {
   }
 };
 
+const logoutAuthor = async (req, res) => {
+  const { refreshToken } = req.cookies;
+  let author;
+  if (!refreshToken)
+    return res.status(400).send({ message: "Token topilmadi" });
+  author = await Author.findOneAndUpdate(
+    { author_token: refreshToken },
+    { author_token: "" },
+    { new: true }
+  );
+  if (!author) return res.status(400).send({ message: "Token topilmadi" });
+
+  res.clearCookie("refreshToken");
+  res.status(200).send({ author });
+};
+
 const loginAuthor = async (req, res) => {
   try {
     const { author_email, author_password } = req.body;
@@ -152,11 +159,20 @@ const loginAuthor = async (req, res) => {
         .send({ message: "Invalid authorization email or password " });
     }
 
-    const token = generateAccessToken(author._id, author.is_expert, [
-      "READ",
-      "WRITE",
-    ]);
-    res.status(200).send({ token });
+    const payload = {
+      id: author.id,
+      is_export: author.is_expert,
+      exuthorRoles: ["READ", "WRITE"],
+    };
+    const tokens = myJwt.generateToken(payload);
+
+    author.author_token = tokens.refreshToken;
+    await author.save();
+    res.cookie("refreshToken", tokens.refreshToken, {
+      maxAge: config.get("refresh_ms"),
+      httpOnly: true,
+    });
+    res.status(200).send({ ...tokens });
   } catch (error) {
     errorHandler(res, error);
   }
@@ -169,4 +185,5 @@ module.exports = {
   editAuthor,
   deleteAuthor,
   loginAuthor,
+  logoutAuthor,
 };

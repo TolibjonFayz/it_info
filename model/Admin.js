@@ -28,6 +28,9 @@ const adminSchema = new Schema(
     updated_at: {
       type: String,
     },
+    admin_token: {
+      type: String,
+    },
   },
   { versionKey: false }
 );

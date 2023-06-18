@@ -1,18 +1,20 @@
 const express = require("express");
 const config = require("config");
 const mongoose = require("mongoose");
+const errorHandler = require("./middleware/error_handling_middleware");
+const cookieParser = require("cookie-parser");
 
 const PORT = config.get("port") || 3030;
 
-const app = express();
-
 //Barcha routlarni chaqirdik
-const mainRouter = require("./routes/index.routes");
+const routes = require("./routes/index.routes");
 
+const app = express();
 app.use(express.json());
+app.use(cookieParser());
 
-//barcha routlarga yo`l
-app.use(mainRouter);
+app.use(errorHandler);
+app.use(routes);
 
 //Daatbazaga ulanib serverni ishga tushirish
 async function start() {
