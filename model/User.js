@@ -13,19 +13,22 @@ const userSchema = new Schema(
     user_password: {
       type: String,
     },
-    admin_is_active: {
+    user_is_active: {
       type: Boolean,
     },
-    admin_is_creator: {
+    user_is_creator: {
       type: Boolean,
     },
     created_data: {
-      typel: String,
+      type: String,
       trim: true,
     },
     updated_at: {
       type: String,
       trim: true,
+    },
+    user_token: {
+      type: String,
     },
   },
   { versionKey: false }
