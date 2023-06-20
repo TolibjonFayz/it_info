@@ -19,10 +19,6 @@ const getAllAdmins = async (req, res) => {
 
 const addAdmin = async (req, res) => {
   try {
-    const { error, value } = adminValidation(req.body);
-    if (error) {
-      return res.status(400).send({ message: error.details[0].message });
-    }
     const {
       admin_name,
       admin_email,
@@ -31,7 +27,7 @@ const addAdmin = async (req, res) => {
       admin_is_creator,
       created_data,
       updated_at,
-    } = value;
+    } = req.body;
 
     const admin = await Admin.find({ admin_email });
 
@@ -161,7 +157,6 @@ const logoutAdmin = async (req, res) => {
     { admin_token: "" },
     { new: true }
   );
-  console.log(admin);
   if (!admin) return res.status(400).send({ message: "Token topilmadi" });
 
   res.clearCookie("refreshToken");

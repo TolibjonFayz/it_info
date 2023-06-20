@@ -13,9 +13,6 @@ const userSchema = new Schema(
     user_password: {
       type: String,
     },
-    user_is_active: {
-      type: Boolean,
-    },
     user_is_creator: {
       type: Boolean,
     },
@@ -29,6 +26,13 @@ const userSchema = new Schema(
     },
     user_token: {
       type: String,
+    },
+    user_activation_link: {
+      type: String,
+    },
+    user_is_active: {
+      type: Boolean,
+      default: false,
     },
   },
   { versionKey: false }

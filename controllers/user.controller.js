@@ -4,6 +4,7 @@ const { userValidation } = require("../validations/user");
 const bcrypt = require("bcrypt");
 const myJwt = require("../services/JwtService");
 const config = require("config");
+const uuid = require("uuid");
 
 const getAllUsers = async (req, res) => {
   try {
@@ -35,6 +36,7 @@ const addUser = async (req, res) => {
     } = value;
 
     const user = await User.find({ user_email });
+    const user_activation_link = uuid.v4();
 
     if (user.length > 1) {
       console.log(user);
@@ -50,9 +52,31 @@ const addUser = async (req, res) => {
       user_is_creator,
       created_data,
       updated_at,
+      user_activation_link,
     });
 
     await new_user.save();
+
+    await MailService.sendActivationMail(
+      user_email,
+      `${config.get("api_url")}/user/activate/${user_activation_link}`
+    );
+
+    const payload = {
+      id: new_user._id,
+      user_is_creator: new_user.user_is_creator,
+      authorRoles: ["READ", "WRITE"],
+      user_is_active: new_user.user_is_active,
+    };
+
+    const tokens = myJwt.generateToken(payload);
+    new_user.user_token = tokens.refreshToken;
+    await new_user.save();
+
+    res.cookie("refreshToken", tokens.refreshToken, {
+      maxAge: config.get("refresh_ms"),
+      httpOnly: true,
+    });
     return res.status(200).send({ message: "New user added successfully" });
   } catch (error) {
     console.log(error);
@@ -164,6 +188,30 @@ const logoutUser = async (req, res) => {
   res.status(200).send({ user });
 };
 
+const userActivate = async (req, res) => {
+  try {
+    const user = await User.findOne({
+      user_activation_link: req.params.link,
+    });
+    if (!user) {
+      return res.status(400).send({ message: "User not found" });
+    }
+
+    if (user.user_is_active) {
+      return res.status(400).send({ message: "User already activated" });
+    }
+
+    user.user_is_active = true;
+    await user.save();
+    res.status(200).send({
+      user_is_active: user.user_is_active,
+      message: "User activated",
+    });
+  } catch (error) {
+    errorHandler(res, error);
+  }
+};
+
 module.exports = {
   getAllUsers,
   addUser,
@@ -172,4 +220,5 @@ module.exports = {
   deleteuser,
   loginUser,
   logoutUser,
+  userActivate,
 };

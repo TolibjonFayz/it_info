@@ -1,17 +1,13 @@
 const errorHandler = require("../helpers/error_handler");
 const Author = require("../model/Author");
-const { authorValidation } = require("../validations/author");
 const bcrypt = require("bcrypt");
 const myJwt = require("../services/JwtService");
 const config = require("config");
+const uuid = require("uuid");
+const MailService = require("../services/MailService");
 
 const addAuthor = async (req, res) => {
   try {
-    const { error, value } = authorValidation(req.body);
-    if (error) {
-      return res.status(404).send({ message: error.details[0].message });
-    }
-
     const {
       author_first_name,
       author_last_name,
@@ -23,7 +19,7 @@ const addAuthor = async (req, res) => {
       author_position,
       author_photo,
       is_expert,
-    } = value;
+    } = req.body;
 
     const author = await Author.findOne({ author_email });
     if (author) {
@@ -31,6 +27,7 @@ const addAuthor = async (req, res) => {
     }
 
     const hashed_password = await bcrypt.hash(author_password, 7);
+    const author_activation_link = uuid.v4();
 
     const newAuthor = await Author({
       author_first_name,
@@ -43,9 +40,32 @@ const addAuthor = async (req, res) => {
       author_position,
       author_photo,
       is_expert,
+      author_activation_link,
     });
     await newAuthor.save();
-    res.status(200).send({ message: "Yangi author qo'shildi" });
+
+    await MailService.sendActivationMail(
+      author_email,
+      `${config.get("api_url")}/author/activate/${author_activation_link}`
+    );
+
+    const payload = {
+      id: newAuthor._id,
+      is_expert: newAuthor.is_expert,
+      authorRoles: ["READ", "WRITE"],
+      author_is_active: newAuthor.author_is_active,
+    };
+
+    const tokens = myJwt.generateToken(payload);
+    newAuthor.author_token = tokens.refreshToken;
+    await newAuthor.save();
+
+    res.cookie("refreshToken", tokens.refreshToken, {
+      maxAge: config.get("refresh_ms"),
+      httpOnly: true,
+    });
+
+    res.status(200).send({ ...tokens, author: payload });
   } catch (error) {
     errorHandler(res, error);
   }
@@ -178,6 +198,60 @@ const loginAuthor = async (req, res) => {
   }
 };
 
+const refreshAuthorToken = async (req, res) => {
+  const { refreshToken } = req.cookies;
+  if (!refreshToken)
+    return res.status(400).send({ message: "Token not found" });
+
+  const authorDataFromCookie = await myJwt.verifyRefresh(refreshToken);
+  const authorDataFromDB = await Author.findOne({ author_token: refreshToken });
+  console.log(authorDataFromDB);
+  if (!authorDataFromCookie || !authorDataFromDB) {
+    return res.status(400).send({ message: "Author is not found" });
+  }
+  const auth = await Author.findById(authorDataFromCookie.id);
+  if (!auth) return res.status(400).send({ message: "ID invalid" });
+
+  const payload = {
+    id: auth._id,
+    is_expert: auth.is_expert,
+    authorRoles: ["READ", "WRITE"],
+  };
+
+  const tokens = myJwt.generateTokens(payload);
+  auth.author_token = tokens.refreshToken;
+  await auth.save();
+  res.cookie("refreshToken", tokens.refreshToken, {
+    maxAge: config.get("refresh_ms"),
+    httpOnly: true,
+  });
+  res.status(200).send({ ...tokens });
+};
+
+const authorActivate = async (req, res) => {
+  try {
+    const author = await Author.findOne({
+      author_activation_link: req.params.link,
+    });
+    if (!author) {
+      return res.status(400).send({ message: "Bunday author topilmadi" });
+    }
+
+    if (author.author_is_active) {
+      return res.status(400).send({ message: "Author already activated" });
+    }
+
+    author.author_is_active = true;
+    await author.save();
+    res.status(200).send({
+      author_is_active: author.author_is_active,
+      message: "Author activated",
+    });
+  } catch (error) {
+    errorHandler(res, error);
+  }
+};
+
 module.exports = {
   getAllAuthor,
   addAuthor,
@@ -186,4 +260,6 @@ module.exports = {
   deleteAuthor,
   loginAuthor,
   logoutAuthor,
+  refreshAuthorToken,
+  authorActivate,
 };

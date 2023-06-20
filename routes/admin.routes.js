@@ -9,17 +9,18 @@ const {
   logoutAdmin,
 } = require("../controllers/admin.controller");
 const adminPolice = require("../middleware/adminPolice");
-const { route } = require("./author.routes");
+
+const Validator = require("../middleware/validator");
 
 const router = express.Router();
 
 //handlers
 router.get("/", adminPolice, getAllAdmins);
-router.post("/", addAdmin);
+router.post("/", Validator("admin"), addAdmin);
 router.get("/:id", getAdminById);
 router.put("/:id", editAdmin);
 router.delete("/:id", deleteAdmin);
-router.post("/login", loginAdmin);
+router.post("/login", Validator("admin_email_pass"), loginAdmin);
 router.post("/logout", logoutAdmin);
 
 module.exports = router;

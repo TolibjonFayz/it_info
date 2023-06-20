@@ -7,7 +7,11 @@ const {
   deleteAuthor,
   loginAuthor,
   logoutAuthor,
+  refreshAuthorToken,
+  authorActivate,
 } = require("../controllers/author.controller");
+
+const Validator = require("../middleware/validator");
 
 const authorPolice = require("../middleware/authorPolice");
 const authorRolesPolice = require("../middleware/authorRolesPolice");
@@ -15,7 +19,7 @@ const router = express.Router();
 
 //hadlers
 router.get("/", authorPolice, getAllAuthor);
-router.post("/", addAuthor);
+router.post("/", Validator("author"), addAuthor);
 router.get(
   "/:id",
   authorRolesPolice(["READ", "WRITE", "CHANGE", "DELETE"]),
@@ -23,7 +27,9 @@ router.get(
 );
 router.put("/:id", editAuthor);
 router.delete("/:id", deleteAuthor);
-router.post("/login", loginAuthor);
+router.post("/login", Validator("author_email_pass"), loginAuthor);
 router.post("/logout", logoutAuthor);
+router.post("/refresh", refreshAuthorToken);
+router.get("/activate/:id", authorActivate);
 
 module.exports = router;
