@@ -18,4 +18,4 @@ const dictSchema = new Schema(
   }
 );
 
-module.exports = model("Dicitonary", dictSchema);
+module.exports = model("Dictionary", dictSchema);

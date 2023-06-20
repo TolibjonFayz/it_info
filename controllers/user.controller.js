@@ -5,6 +5,7 @@ const bcrypt = require("bcrypt");
 const myJwt = require("../services/JwtService");
 const config = require("config");
 const uuid = require("uuid");
+const MailService = require("../services/MailService");
 
 const getAllUsers = async (req, res) => {
   try {
