@@ -25,8 +25,8 @@ router.get(
   authorRolesPolice(["READ", "WRITE", "CHANGE", "DELETE"]),
   getAuthorById
 );
-router.put("/:id", editAuthor);
-router.delete("/:id", deleteAuthor);
+router.put("/:id", authorPolice, editAuthor);
+router.delete("/:id", authorPolice, deleteAuthor);
 router.post("/login", Validator("author_email_pass"), loginAuthor);
 router.post("/logout", logoutAuthor);
 router.post("/refresh", refreshAuthorToken);

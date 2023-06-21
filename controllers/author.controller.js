@@ -137,9 +137,17 @@ const editAuthor = async (req, res) => {
 const deleteAuthor = async (req, res) => {
   try {
     const id = req.params.id;
-    const deleting = await Author.deleteOne({ _id: id });
-    res.json(deleting);
+    if (id !== req.author.id) {
+      return res.status(401).send({ message: "Sizda bunady huquq yo'q" });
+    }
+
+    const result = await Author.findOne({ _id: id });
+    if (result == null)
+      return res.status(400).send({ message: "Id is incorrect" });
+    await Author.findByIdAndDelete(id);
+    res.status(202).send({ message: "OK.  Author is deleted" });
   } catch (error) {
+    console.log(error);
     errorHandler(res, error);
   }
 };
@@ -192,6 +200,18 @@ const loginAuthor = async (req, res) => {
       maxAge: config.get("refresh_ms"),
       httpOnly: true,
     });
+
+    try {
+      setTimeout(function () {
+        var err = new Error("Hello");
+        throw err;
+      }, 1000);
+    } catch (error) {
+      console.log(error);
+    }
+
+    new Promise((_, reject) => reject(new Error("wooops1")));
+
     res.status(200).send({ ...tokens });
   } catch (error) {
     errorHandler(res, error);
