@@ -1,0 +1,234 @@
+2023-06-22T05:50:37.245Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T05:51:01.755Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T05:51:12.438Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T05:51:14.923Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T05:52:16.929Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:9:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:12:03.528Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:10:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:12:58.681Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:10:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:12:59.536Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:10:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:13:06.961Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:10:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:13:18.320Z ] error: uncaughtException: requ is not defined
+ReferenceError: requ is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:9:17)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:13:20.621Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:13:22.304Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:14:47.082Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:15:57.053Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:16:04.112Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:16:07.536Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:23.923Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:25.807Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:27.420Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:32.677Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:36.104Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:37.722Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:43.479Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:17:47.340Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:18:00.042Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:18:05.807Z ] error: uncaughtException: logger.log is not a function
+TypeError: logger.log is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:11:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47

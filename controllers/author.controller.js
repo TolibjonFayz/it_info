@@ -200,18 +200,6 @@ const loginAuthor = async (req, res) => {
       maxAge: config.get("refresh_ms"),
       httpOnly: true,
     });
-
-    try {
-      setTimeout(function () {
-        var err = new Error("Hello");
-        throw err;
-      }, 1000);
-    } catch (error) {
-      console.log(error);
-    }
-
-    new Promise((_, reject) => reject(new Error("wooops1")));
-
     res.status(200).send({ ...tokens });
   } catch (error) {
     errorHandler(res, error);

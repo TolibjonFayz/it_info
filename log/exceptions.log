@@ -1,0 +1,2058 @@
+2023-06-22T06:19:48.957Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:20:49.889Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:21:34.302Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:22:49.316Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:25:36.161Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:25:38.380Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:25:41.180Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:25:51.715Z [undefined] error: uncaughtException: router is not defined
+ReferenceError: router is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:67:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:26:55.095Z [undefined] error: unhandledRejection: wooops1
+Error: wooops1
+    at C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\controllers\author.controller.js:213:39
+    at new Promise (<anonymous>)
+    at loginAuthor (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\controllers\author.controller.js:213:5)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-22T06:26:56.076Z [undefined] error: uncaughtException: Hello
+Error: Hello
+    at Timeout._onTimeout (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\controllers\author.controller.js:206:19)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+2023-06-22T06:44:50.283Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:45:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:44:51.471Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:44:55.949Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:45:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:44:58.959Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:44:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:45:00.148Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:45:12.225Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:45:23.666Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:45:26.690Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:45:33.083Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:45:41.848Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:46:43.797Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:46:48.623Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:47:02.923Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:50:52.687Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:44:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T06:55:28.831Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:55:50.928Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:56:03.255Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:59:33.421Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:59:34.871Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:59:46.889Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:59:51.250Z [undefined] error: uncaughtException: Unexpected token ']'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:8
+  ],
+  ^
+
+SyntaxError: Unexpected token ']'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T06:59:54.129Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T06:59:58.696Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:00.404Z [undefined] error: uncaughtException: Unexpected token ']'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10
+  ],
+  ^
+
+SyntaxError: Unexpected token ']'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:00:03.392Z [undefined] error: uncaughtException: Unexpected token ']'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10
+  ],
+  ^
+
+SyntaxError: Unexpected token ']'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:00:10.888Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:16.178Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:17.407Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:29.177Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:41.640Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:43.427Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:47.197Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:56.781Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:00:59.026Z [undefined] error: uncaughtException: expressWinston is not defined
+ReferenceError: expressWinston is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:02.229Z [undefined] error: uncaughtException: Unexpected identifier 'P'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3
+cosnt P
+      ^
+
+SyntaxError: Unexpected identifier 'P'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:01:09.744Z [undefined] error: uncaughtException: Missing initializer in destructuring declaration
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3
+const {timestamp}
+      ^^^^^^^^^^^
+
+SyntaxError: Missing initializer in destructuring declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:01:14.309Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:24.886Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:23)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:38.207Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:24)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:40.988Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:27)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:42.780Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:30)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:45.709Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:36)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:51.393Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:37)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:01:59.092Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:02:17.066Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:02:29.335Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:02:47.364Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:03:04.150Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:03:22.844Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:3:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:04:01.795Z [undefined] error: uncaughtException: Missing initializer in const declaration
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:1
+const em
+      ^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:04:12.104Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:05:46.274Z [undefined] error: uncaughtException: Identifier 'module' has already been declared
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:25
+module.exports = smt;
+^
+
+SyntaxError: Identifier 'module' has already been declared
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:05:50.330Z [undefined] error: uncaughtException: Missing initializer in const declaration
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:23
+const express
+      ^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:05:53.097Z [undefined] error: uncaughtException: Missing initializer in const declaration
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:23
+const expressWinston
+      ^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:06:01.212Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:04.160Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:07.857Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:11.437Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:18.858Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:23.502Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:29.896Z [undefined] error: uncaughtException: Unexpected token ']'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:25
+  transports: [new]
+                  ^
+
+SyntaxError: Unexpected token ']'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:06:33.135Z [undefined] error: uncaughtException: Unexpected token ']'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:25
+  transports: [new transports.]
+                              ^
+
+SyntaxError: Unexpected token ']'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:06:34.427Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:37.238Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:42.942Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:45.119Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:48.595Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:49.956Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:56.544Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:57.854Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:06:59.109Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:00.494Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:02.780Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:16.425Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:18.171Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:23.913Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:27.059Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:07:59.494Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:08:10.703Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:08:17.071Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:08:18.431Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:08:21.091Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:08:58.474Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:09:00.412Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:10:05.585Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:10:12.052Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:12:35.933Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:12:41.292Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:12:42.869Z [undefined] error: uncaughtException: Unexpected identifier 'combine'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:27
+  format: winston combine(prettyPrint()),
+                  ^^^^^^^
+
+SyntaxError: Unexpected identifier 'combine'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:13:10.529Z [undefined] error: uncaughtException: Unexpected identifier 'combine'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:28
+  format: winston combine(prettyPrint()),
+                  ^^^^^^^
+
+SyntaxError: Unexpected identifier 'combine'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:13:16.190Z [undefined] error: uncaughtException: Unexpected identifier 'combine'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:28
+  format: winston.combine combine(prettyPrint()),
+                          ^^^^^^^
+
+SyntaxError: Unexpected identifier 'combine'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:13:18.782Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:13:21.911Z [undefined] error: uncaughtException: Unexpected identifier 'combine'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:28
+  format: winston.format combine(prettyPrint()),
+                         ^^^^^^^
+
+SyntaxError: Unexpected identifier 'combine'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:13:24.942Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:13:27.525Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:13:29.070Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:13:46.413Z [undefined] error: uncaughtException: format is not defined
+ReferenceError: format is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:5:46)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:17:07.530Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:17:16.121Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:17:16.997Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:17:22.909Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:17:25.184Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:13)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:22:19.926Z [undefined] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:65:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:22:29.966Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:65:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:22:31.816Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:65:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:22:43.668Z [undefined] error: uncaughtException: expre is not defined
+ReferenceError: expre is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:22:45.262Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:22:49.495Z [undefined] error: uncaughtException: smt is not defined
+ReferenceError: smt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:65:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:22:55.488Z [undefined] error: uncaughtException: ex is not defined
+ReferenceError: ex is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:65:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:23:25.412Z [undefined] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:24:02.141Z [undefined] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:24:08.182Z [undefined] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T07:24:45.961Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:24:56.211Z [undefined] error: uncaughtException: Identifier 'winston' has already been declared
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:33
+const winston = require("winston");
+      ^
+
+SyntaxError: Identifier 'winston' has already been declared
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-22T07:25:04.455Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:05.611Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:11.980Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:14.026Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:29.190Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:41.770Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:11:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:47.700Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:25:51.268Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:26:01.054Z [undefined] error: uncaughtException: con is not defined
+ReferenceError: con is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:11)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:26:03.332Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:26:07.881Z [undefined] error: uncaughtException: config is not defined
+ReferenceError: config is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:9:11)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:26:10.527Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:26:14.785Z [undefined] error: uncaughtException: config.get is not a function
+TypeError: config.get is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:26:27.110Z [undefined] error: uncaughtException: Cannot read properties of undefined (reading 'get')
+TypeError: Cannot read properties of undefined (reading 'get')
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:27:34.196Z [undefined] error: uncaughtException: Cannot read properties of undefined (reading 'get')
+TypeError: Cannot read properties of undefined (reading 'get')
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:10:18)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T07:27:51.458Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:27:58.859Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:28:05.150Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:28:16.823Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:28:22.510Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:28:26.403Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:28:39.752Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:28:58.105Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:29:20.504Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:29:21.719Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:29:23.207Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:32:46.219Z [undefined] error: uncaughtException: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+Error: Cannot find module 'confi'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:4:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-22T07:32:50.907Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:44:49.873Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:45:18.786Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:45:41.604Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:43)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:45:45.583Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:32:70)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:46:02.033Z [undefined] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T11:46:25.221Z [undefined] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T11:46:32.796Z [undefined] error: uncaughtException: ex is not defined
+ReferenceError: ex is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:66:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-22T11:47:00.126Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:47:19.152Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:47:39.931Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:47:57.195Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:48:22.107Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:48:25.716Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:49:41.804Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-22T11:49:44.566Z [undefined] error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\middleware\nimadir.js:32:26)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
