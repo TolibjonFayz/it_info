@@ -62,7 +62,7 @@ const addAuthor = async (req, res) => {
 
     res.cookie("refreshToken", tokens.refreshToken, {
       maxAge: config.get("refresh_ms"),
-      httpOnly: true,
+      // httpOnly: true,
     });
 
     res.status(200).send({ ...tokens, author: payload });
@@ -198,7 +198,7 @@ const loginAuthor = async (req, res) => {
     await author.save();
     res.cookie("refreshToken", tokens.refreshToken, {
       maxAge: config.get("refresh_ms"),
-      httpOnly: true,
+      // httpOnly: true,
     });
     res.status(200).send({ ...tokens });
   } catch (error) {
@@ -226,12 +226,12 @@ const refreshAuthorToken = async (req, res) => {
     authorRoles: ["READ", "WRITE"],
   };
 
-  const tokens = myJwt.generateTokens(payload);
+  const tokens = myJwt.generateToken(payload);
   auth.author_token = tokens.refreshToken;
   await auth.save();
   res.cookie("refreshToken", tokens.refreshToken, {
     maxAge: config.get("refresh_ms"),
-    httpOnly: true,
+    // httpOnly: true,
   });
   res.status(200).send({ ...tokens });
 };

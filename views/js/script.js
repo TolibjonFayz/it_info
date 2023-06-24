@@ -1,9 +1,58 @@
+function getTokenExpiration(token) {
+  const decodedToken = JSON.parse(atob(token.split(".")[1]));
+  if (decodedToken && decodedToken.exp) {
+    return new Date(decodedToken.exp * 1000); // Convert expiration time from seconds to milliseconds
+  }
+  return null;
+}
+
+function getTokenFromCookie(cookieName) {
+  const cookies = document.cookie.split(";");
+  for (let i = 0; i < cookies.length; i++) {
+    const cookie = cookies[i].trim();
+    if (cookie.startsWith(`${cookieName}=`)) {
+      return cookie.substring(cookieName.length + 1);
+    }
+  }
+  return null;
+}
+
+/////AUTHOR
 async function getAuthors() {
-  localStorage.setItem(
-    "accessToken",
-    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0OTI4YjY5ZGE0OGU5MzM4ZmEwNGRiZSIsImlzX2V4cG9ydCI6ZmFsc2UsImV4dXRob3JSb2xlcyI6WyJSRUFEIiwiV1JJVEUiXSwiaWF0IjoxNjg3NTU2MDYyLCJleHAiOjE2ODkzNTYwNjJ9.Z-w2WgzUdt7pZlHeiii2tPU13VbRMRLNQiujXb9Kfno"
-  );
-  const accessToken = localStorage.getItem("accessToken");
+  const loginUrl = "/new/login";
+
+  let accessToken = localStorage.getItem("accessToken");
+  console.log(accessToken);
+  const accessTokenExpTime = getTokenExpiration(accessToken);
+  console.log("accessTokenExpTime:", accessTokenExpTime);
+
+  if (accessTokenExpTime) {
+    const currentTime = new Date();
+    if (currentTime < accessTokenExpTime) {
+      console.log("Access token is still valid.");
+    } else {
+      console.log("Access token has expired.");
+      const refreshToken = getTokenFromCookie("refreshToken");
+      console.log("refreshToken:", refreshToken);
+      const refreshTokenExpTime = getTokenExpiration(refreshToken);
+      console.log("refreshTokenExpTime: ", refreshTokenExpTime);
+      if (refreshTokenExpTime) {
+        const currentTime = new Date();
+        if (currentTime < refreshTokenExpTime) {
+          console.log("Refresh token is still valid.");
+          accessToken = await authorRefreshTokenFunc(refreshToken);
+          console.log("NewAccessToken:", accessToken);
+        } else {
+          console.log("Refresh token has expired.");
+          return window.location.replace(loginUrl);
+        }
+      } else {
+        console.log("Invalid access token format.");
+      }
+    }
+  } else {
+    console.log("Invalid access token format.");
+  }
 
   fetch("http://localhost:3000/author", {
     method: "GET",
@@ -29,6 +78,33 @@ async function getAuthors() {
     });
 }
 
+async function authorRefreshTokenFunc() {
+  return fetch("http://localhost:3000/author/refresh", {
+    method: "POST",
+    credentials: "include",
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+    },
+  })
+    .then((response) => {
+      if (response.ok) {
+        console.log("Refreshed successful");
+        return response.json();
+      } else {
+        console.error("Refreshing failed");
+      }
+    })
+    .then((tokens) => {
+      console.log(tokens.accessToken);
+      localStorage.setItem("accessToken", tokens.accessToken);
+      return tokens.accessToken;
+    })
+    .catch((error) => {
+      console.error("Error:", error);
+    });
+}
+
 function displayAuthor(authors) {
   const listContainer = document.getElementById("author-list");
 
@@ -42,6 +118,8 @@ function displayAuthor(authors) {
   });
 }
 
+
+/////Dictionary
 async function getDictionaries() {
   fetch("http://localhost:3000/dictionary", {
     method: "GET",

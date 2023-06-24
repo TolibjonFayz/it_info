@@ -1,0 +1,68 @@
+<form id="loginForm">
+  <div class="form-group">
+    <label for="author_email">Email address</label>
+    <input
+      type="email"
+      class="form-control"
+      id="author_email"
+      name="author_email"
+      aria-describedby="emailHelp"
+      placeholder="Enter email"
+      value="islom444@gmail.com"
+    />
+    <small id="emailHelp" class="form-text text-muted">We'll never share your
+      email with anyone else.</small>
+  </div>
+  <div class="form-group">
+    <label for="author_password">Password</label>
+    <input
+      type="password"
+      class="form-control"
+      id="author_password"
+      name="author_password"
+      placeholder="Password"
+      value="qwerty1"
+    />
+  </div>
+  <div class="form-group form-check">
+    <input type="checkbox" class="form-check-input" id="exampleCheck1" />
+    <label class="form-check-label" for="exampleCheck1">Check me out</label>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+<script>
+  const form = document.getElementById("loginForm");
+  form.addEventListener("submit",(e)=>{ 
+    e.preventDefault(); 
+    const author_email = document.getElementById("author_email").value; 
+    const author_password = document.getElementById("author_password").value;
+
+  try{
+    const response = fetch("http://localhost:3000/author/login",{
+      method:"POST",
+      headers: {
+        "Content-type":"application/json"
+      },
+      body: JSON.stringify({author_email,author_password})
+    })
+    .then((response)=>{
+      if(response.ok){
+        console.log("Login successfull");
+        return response.json();
+      } else {
+        console.log("Login failed");
+      }
+    })
+    .then((tokens)=>{
+      console.log(tokens.accessToken);
+      localStorage.setItem("accessToken",tokens.accessToken);
+    })
+    .catch((error)=>{
+      console.log("Error: ",error);
+    });
+  } catch(error){
+    console.log("An error occured",error);
+  }
+  });
+</script>
