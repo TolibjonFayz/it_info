@@ -77,7 +77,7 @@ const getAllAuthor = async (req, res) => {
     if (authors.length < 1) {
       return res.status(400).send({ message: "Birorta ham author topilmadi" });
     }
-    res.json({ authors });
+    res.json({ data: authors });
   } catch (error) {
     errorHandler(res, error);
   }

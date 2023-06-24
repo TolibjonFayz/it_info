@@ -2051,3 +2051,301 @@ ReferenceError: prettyPrint is not defined
     at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson50_22.06.2023\it_info\app.js:36:5)
     at Module._compile (node:internal/modules/cjs/loader:1267:14)
     at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T05:21:17.188Z [undefined] error: uncaughtException: Cannot read properties of undefined (reading 'length')
+TypeError: Cannot read properties of undefined (reading 'length')
+    at pathtoRegexp (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\path-to-regexp\index.js:63:49)
+    at new Layer (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\router\layer.js:45:17)
+    at Function.route (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\router\index.js:505:15)
+    at proto.<computed> [as get] (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\router\index.js:520:22)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:25:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-23T05:21:28.253Z [undefined] error: uncaughtException: view is not defined
+ReferenceError: view is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:25:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T05:21:44.228Z [undefined] error: uncaughtException: view is not defined
+ReferenceError: view is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:26:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T05:21:45.954Z [undefined] error: uncaughtException: cosnt is not defined
+ReferenceError: cosnt is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T05:21:50.605Z [undefined] error: uncaughtException: Missing initializer in const declaration
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19
+const view
+      ^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-23T05:21:59.303Z [undefined] error: uncaughtException: Cannot find module 'view'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+Error: Cannot find module 'view'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-23T05:22:01.868Z [undefined] error: uncaughtException: Cannot find module './'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+Error: Cannot find module './'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+2023-06-23T05:22:03.525Z [undefined] error: uncaughtException: view is not defined
+ReferenceError: view is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:26:17)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T05:31:56.705Z [undefined] error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1823:16)
+    at listenInCluster (node:net:1871:12)
+    at Server.listen (node:net:1959:7)
+    at Function.listen (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\application.js:635:24)
+    at start (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:64:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-23T05:38:28.619Z [undefined] error: uncaughtException: router.getuse is not a function
+TypeError: router.getuse is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:26:8)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:15:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T05:52:07.012Z [undefined] error: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at new NodeError (node:internal/errors:399:5)
+    at Module.require (node:internal/modules/cjs/loader:1144:11)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:10:15)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-23T05:52:09.654Z [undefined] error: uncaughtException: Cannot find module 'e'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+Error: Cannot find module 'e'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:10:15)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-06-23T06:00:13.019Z [undefined] error: uncaughtException: c is not defined
+ReferenceError: c is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\view.routes.js:34:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T06:00:15.061Z [undefined] error: uncaughtException: czz is not defined
+ReferenceError: czz is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\view.routes.js:34:1)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T06:02:53.087Z [undefined] error: uncaughtException: errorH is not defined
+ReferenceError: errorH is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:55:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-23T06:02:54.695Z [undefined] error: uncaughtException: errorHan is not defined
+ReferenceError: errorHan is not defined
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:55:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-23T06:57:49.703Z [undefined] error: unhandledRejection: Cannot find module 'hbs'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\view.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\application.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\express.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\index.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+Error: Cannot find module 'hbs'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\view.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\application.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\express.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\index.js
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at new View (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\view.js:81:14)
+    at Function.render (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\application.js:587:12)
+    at ServerResponse.render (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\response.js:1039:7)
+    at C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\view.routes.js:30:7
+    at Layer.handle [as handle_request] (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\node_modules\express\lib\router\route.js:144:13)
+2023-06-23T06:59:12.920Z [undefined] error: uncaughtException: The argument 'id' must be a non-empty string. Received ''
+TypeError [ERR_INVALID_ARG_VALUE]: The argument 'id' must be a non-empty string. Received ''
+    at new NodeError (node:internal/errors:399:5)
+    at Module.require (node:internal/modules/cjs/loader:1144:11)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:9:15)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+    at node:internal/main/run_main_module:23:47
+2023-06-23T06:59:14.396Z [undefined] error: uncaughtException: Cannot find module 'ex'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+Error: Cannot find module 'ex'
+Require stack:
+- C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js
+    at Module._resolveFilename (node:internal/modules/cjs/loader:1082:15)
+    at Module._load (node:internal/modules/cjs/loader:928:27)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:9:15)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:83:12)
+2023-06-23T17:54:02.714Z [undefined] error: uncaughtException: Unexpected identifier 'ApiError'
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\middleware\error_handling_middleware.js:5
+    return res.status(err.status).jsoconst ApiError = require("../error/ApiError");
+                                           ^^^^^^^^
+
+SyntaxError: Unexpected identifier 'ApiError'
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:16:35)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+2023-06-23T17:55:13.761Z [undefined] error: uncaughtException: router1.prefix is not a function
+TypeError: router1.prefix is not a function
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:22:9)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\app.js:14:16)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+2023-06-23T18:00:45.855Z [undefined] error: uncaughtException: Malformed arrow function parameter list
+C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\view.routes.js:21
+router.get("/topics", as(req, res) => {
+                      ^^^^^^^^^^^
+
+SyntaxError: Malformed arrow function parameter list
+    at internalCompileFunction (node:internal/vm:73:18)
+    at wrapSafe (node:internal/modules/cjs/loader:1187:20)
+    at Module._compile (node:internal/modules/cjs/loader:1231:27)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1321:10)
+    at Module.load (node:internal/modules/cjs/loader:1125:32)
+    at Module._load (node:internal/modules/cjs/loader:965:12)
+    at Module.require (node:internal/modules/cjs/loader:1149:19)
+    at require (node:internal/modules/helpers:121:18)
+    at Object.<anonymous> (C:\Mine\Najot_Talim\Darslar\full_stack\3-month\lesson51_23.06.2023\it_info\routes\index.routes.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1267:14)
