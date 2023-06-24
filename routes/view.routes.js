@@ -11,7 +11,7 @@ router.get("/", (req, res) => {
   });
 });
 
-router.get("/dictionary", (req, res) => {
+router.get("/dictionaries", (req, res) => {
   res.render(createViewPath("dictionary"), {
     title: "Lug'atlar",
     isDict: true,

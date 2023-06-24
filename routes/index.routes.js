@@ -23,7 +23,7 @@ const viewRouter = require("./view.routes");
 //   apitRouter.use("/dict", dictionary);
 // });
 
-router.use("/", viewRouter);
+router.use("/new", viewRouter);
 
 router.use("/dictionary", dictionary);
 router.use("/category", category);

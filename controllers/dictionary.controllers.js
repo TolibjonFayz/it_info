@@ -29,7 +29,7 @@ const getAllTermin = async (req, res) => {
     if (!terms) {
       return res.status(400).send({ message: "Birorta ham termin topilmadi" });
     }
-    res.json({ terms });
+    res.json({ data: terms });
   } catch (error) {
     errorHandler(res, error);
   }

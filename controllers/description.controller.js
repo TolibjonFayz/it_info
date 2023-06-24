@@ -21,7 +21,7 @@ const getAllDescriptions = async (req, res) => {
     if (descriptions.length < 1) {
       return res.status(400).send({ message: "Any description not found" });
     }
-    res.json(descriptions);
+    res.json({ data: descriptions });
   } catch (error) {
     errorHandler(res, error);
   }
